@@ -1,6 +1,6 @@
-# hackathon_app
+# Heal.io
 
-A new Flutter project.
+A HealthCare Mobile App.
 
 ## Getting Started
 
